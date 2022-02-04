@@ -54,4 +54,3 @@
 ## Required Additional Tools
 <li>POSTMAN for testing API
 <li> Download and Install from here -https://www.postman.com/downloads/
-
