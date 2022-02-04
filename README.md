@@ -2,7 +2,7 @@
 **Contains POST API to provide input to the server**
 
 ## **Installation Instructions**
-<li>1.git clone https://github.com/mornville/flask-api.git</li>
+<li>1.git clone https://github.com/gbhargav21/Flask-Api-Testing-POSTMAN.git</li>
  <li>2.cd Flask-Api-Testing-POSTMAN</li>
   <li>3.pip install -r requirements.txt</li>
   <li>4.python app.py</li>
