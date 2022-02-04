@@ -3,8 +3,8 @@
 
 ## **Installation Instructions**
 <li>git clone https://github.com/gbhargav21/Flask-Api-Testing-POSTMAN.git</li>
- <li>cd Flask-Api-Testing-POSTMAN</li>
-  <li>pip install -r requirements.txt</li>
+<li>cd Flask-Api-Testing-POSTMAN</li>
+ <li>pip install -r requirements.txt</li>
   <li>python app.py</li>
   <li>In Postman add the URL( http://127.0.0.1:5000/json) and change the type to POST.</li>
   <li>On the body tab, change to raw and select JSON from the drop-down. </li>
