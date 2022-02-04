@@ -45,4 +45,10 @@
     "order_total": 14300
 }
 ```
+## ASSUMPTIONS MADE
+- Maximum Name length = 50
+- Maximum item quantity = 500
+- Maximum item price(paisa) = 10000
+- distance range(min, max) (metre) = (0, 500000)
+- Initial Delivery Slab (lower, upper, cost) (lower and upper bound in Km) = [(0,10, 50), (10, 20, 100), (20, 50, 500), (50, DISTANCE_RANGE[1], 1000)]
 
